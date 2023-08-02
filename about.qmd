@@ -1,9 +1,9 @@
 ---
-title: "Thomas Rose"
+title: "Johannes Mair"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: WIN_20230802_15_09_21_Pro.jpg
   links:
     - icon: twitter
       text: twitter
@@ -30,13 +30,19 @@ Here goes the information to be included in the template.
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
-Germany  
+Johannes Mair
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Institut für Angewandte Geowissenschaften / Institute of Applied Geosciences
+Fachgebiet Ingenieurgeologie
+Technische Universität Darmstadt
+
+Schnittspahnstraße 9
+64287 Darmstadt
+Germany
+
+Tel: +49 6151 - 1622347
+Fax: +49 6151 - 1623601
+E-Mail: mair@geo.tu-darmstadt.de
 
 ## Privacy
 
