@@ -18,7 +18,7 @@ about:
 
 :::{#template-area}
 
-Hi! It's me. 
+Hi! It's me. I stole this website from Thomas Rose :)
 
 :::
 
